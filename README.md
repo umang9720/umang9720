@@ -1,4 +1,4 @@
-<h2 align="left">🌟 Hi there! I'm Umang Garg — a passionate Full Stack Developer from Delhi, India 🌍. I build, create, and share things that make the internet a cooler place ✨. Thanks for stopping by — you're awesome! 🙌</h2>
+<h2 align="left">🌟 Hi there! I'm Umang Garg — a passionate FrontEnd  Developer and React Native Developer from Ghaziabad, India 🌍. I build, create, and share things that make the internet a cooler place ✨. Thanks for stopping by — you're awesome! 🙌</h2>
 
 ###
 
